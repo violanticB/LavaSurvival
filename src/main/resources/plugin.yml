@@ -1,0 +1,4 @@
+name: LavaSurvival
+version: 1.0
+main: com.vextracraft.lava.LavaPlugin
+description: Custom minigame for Dion Timmer

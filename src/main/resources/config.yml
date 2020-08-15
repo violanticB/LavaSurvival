@@ -1,0 +1,17 @@
+minimum-players: 4
+maximum-players: 20
+
+game:
+  lava-drop: 2400
+  match-time: 3600
+  vault-reward: 50000
+
+map:
+  name: "Dungeons"
+  author: "Dion Timmer"
+  x0: 1.5
+  y0: 2
+  z0: -75.5
+  x1: 39.5
+  y1: 2
+  z1: -35.5
